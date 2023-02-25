@@ -1,0 +1,152 @@
+contracts/ethplay/ethplay.wasm        Vul1! fake eos transfer!
+contracts/ethplay/ethplay.wasm        Vul2! fake transfer notice!
+contracts/exchange/exchange.wasm        No Vul1.
+contracts/exchange/exchange.wasm        No Vul2.
+contracts/myprofile/myprofile.wasm        No Vul2.
+contracts/myprofile/myprofile.wasm        No Vul1.
+contracts/owdinnetwork/owdinnetwork.wasm        Vul2! fake transfer notice!
+contracts/owdinnetwork/owdinnetwork.wasm        Vul1! fake eos transfer!
+contracts/salescon/salescon.wasm        No Vul1.
+contracts/salescon/salescon.wasm        Vul2! fake transfer notice!
+contracts/tokentime/tokentime.wasm        Vul1! fake eos transfer!
+contracts/tokentime/tokentime.wasm        Vul2! fake transfer notice!
+contracts/tokenlock/tokenlock.wasm        Vul2! fake transfer notice!
+contracts/tokenlock/tokenlock.wasm        Vul1! fake eos transfer!
+contracts/timelock/timelock.wasm        Vul2! fake transfer notice!
+contracts/timelock/timelock.wasm        Vul1! fake eos transfer!
+contracts/test.token/test.token.wasm        Vul1! fake eos transfer!
+contracts/test.token/test.token.wasm        Vul2! fake transfer notice!
+contracts/stablecoooin/stablecoooin.wasm        Vul2! fake transfer notice!
+contracts/stablecoooin/stablecoooin.wasm        Vul1! fake eos transfer!
+contracts/eosio.nft/eosio.nft.wasm        Vul1! fake eos transfer!
+contracts/eosio.nft/eosio.nft.wasm        Vul2! fake transfer notice!
+contracts/eosbet/eosbet.wasm        Vul2! fake transfer notice!
+contracts/eosbet/eosbet.wasm        No Vul1.
+contracts/eosbethack/eosbethack.wasm        No Vul1.
+contracts/eosbethack/eosbethack.wasm        No Vul2.
+contracts/exchange/exchange.wasm        No Vul2.
+contracts/exchange/exchange.wasm        No Vul1.
+contracts/shine/shine.wasm        No Vul1.
+contracts/shine/shine.wasm        No Vul2.
+contracts/vigor/vigor.wasm        No Vul2.
+contracts/vigor/vigor.wasm        No Vul1.
+contracts/appdemo/appdemo.wasm        No Vul1.
+contracts/appdemo/appdemo.wasm        No Vul2.
+contracts/autoservice/autoservice.wasm        No Vul1.
+contracts/autoservice/autoservice.wasm        No Vul2.
+contracts/ballot/ballot.wasm        No Vul1.
+contracts/ballot/ballot.wasm        No Vul2.
+contracts/basics/basics.wasm        No Vul2.
+contracts/basics/basics.wasm        No Vul1.
+contracts/blaster/blaster.wasm        No Vul1.
+contracts/blaster/blaster.wasm        No Vul2.
+contracts/blog/blog.wasm        No Vul2.
+contracts/blog/blog.wasm        No Vul1.
+contracts/cms/cms.wasm        No Vul2.
+contracts/cms/cms.wasm        No Vul1.
+contracts/customtokens/customtokens.wasm        No Vul1.
+contracts/customtokens/customtokens.wasm        No Vul2.
+contracts/ddos/ddos.wasm        No Vul2.
+contracts/ddos/ddos.wasm        No Vul1.
+contracts/delaytrans/delaytrans.wasm        No Vul1.
+contracts/delaytrans/delaytrans.wasm        No Vul2.
+contracts/dgoods/dgoods.wasm        No Vul2.
+contracts/dgoods/dgoods.wasm        No Vul1.
+contracts/dice/dice.wasm        No Vul1.
+contracts/dice/dice.wasm        No Vul2.
+contracts/eosbutton/eosbutton.wasm        No Vul2.
+contracts/eosbutton/eosbutton.wasm        No Vul1.
+contracts/eoscomm/eoscomm.wasm        No Vul1.
+contracts/eoscomm/eoscomm.wasm        No Vul2.
+contracts/eosmsg/eosmsg.wasm        No Vul1.
+contracts/eosmsg/eosmsg.wasm        No Vul2.
+contracts/eosproof/eosproof.wasm        No Vul2.
+contracts/eosproof/eosproof.wasm        No Vul1.
+contracts/eosuber/eosuber.wasm        No Vul1.
+contracts/eosuber/eosuber.wasm        No Vul2.
+contracts/eosyield/eosyield.wasm        No Vul2.
+contracts/eosyield/eosyield.wasm        No Vul1.
+contracts/exchange/exchange.wasm        No Vul1.
+contracts/exchange/exchange.wasm        No Vul2.
+contracts/forum/forum.wasm        No Vul1.
+contracts/forum/forum.wasm        No Vul2.
+contracts/freestorage/freestorage.wasm        No Vul2.
+contracts/freestorage/freestorage.wasm        No Vul1.
+contracts/gravatarcafe/gravatarcafe.wasm        No Vul1.
+contracts/gravatarcafe/gravatarcafe.wasm        No Vul2.
+contracts/hello/hello.wasm        No Vul2.
+contracts/hello/hello.wasm        No Vul1.
+contracts/hello.target/hello.target.wasm        No Vul1.
+contracts/hello.target/hello.target.wasm        No Vul2.
+contracts/infiniverse/infiniverse.wasm        Vul2! fake transfer notice!
+contracts/infiniverse/infiniverse.wasm        No Vul1.
+contracts/keepscore/keepscore.wasm        No Vul1.
+contracts/keepscore/keepscore.wasm        No Vul2.
+contracts/kingofeos/kingofeos.wasm        No Vul2.
+contracts/kingofeos/kingofeos.wasm        No Vul1.
+contracts/lottery1/lottery1.wasm        No Vul1.
+contracts/lottery1/lottery1.wasm        No Vul2.
+contracts/lover/lover.wasm        No Vul2.
+contracts/lover/lover.wasm        No Vul1.
+contracts/masteroracle/masteroracle.wasm        No Vul1.
+contracts/masteroracle/masteroracle.wasm        No Vul2.
+contracts/members/members.wasm        No Vul2.
+contracts/members/members.wasm        No Vul1.
+contracts/merkle/merkle.wasm        No Vul1.
+contracts/merkle/merkle.wasm        No Vul2.
+contracts/more.voting/more.voting.wasm        No Vul1.
+contracts/more.voting/more.voting.wasm        No Vul2.
+contracts/more.moment/more.moment.wasm        No Vul2.
+contracts/more.moment/more.moment.wasm        No Vul1.
+contracts/mutualcredit/mutualcredit.wasm        Vul1! fake eos transfer!
+contracts/mutualcredit/mutualcredit.wasm        Vul2! fake transfer notice!
+contracts/mydao/mydao.wasm        No Vul2.
+contracts/mydao/mydao.wasm        No Vul1.
+contracts/newapp1/newapp1.wasm        No Vul1.
+contracts/newapp1/newapp1.wasm        No Vul2.
+contracts/pet/pet.wasm        No Vul2.
+contracts/pet/pet.wasm        No Vul1.
+contracts/pex/pex.wasm        No Vul1.
+contracts/pex/pex.wasm        No Vul2.
+contracts/pradata/pradata.wasm        No Vul2.
+contracts/pradata/pradata.wasm        No Vul1.
+contracts/priceoracliz/priceoracliz.wasm        No Vul1.
+contracts/priceoracliz/priceoracliz.wasm        No Vul2.
+contracts/ramconsumer/ramconsumer.wasm        No Vul2.
+contracts/ramconsumer/ramconsumer.wasm        No Vul1.
+contracts/reader/reader.wasm        No Vul1.
+contracts/reader/reader.wasm        No Vul2.
+contracts/recruit/recruit.wasm        No Vul2.
+contracts/recruit/recruit.wasm        No Vul1.
+contracts/reliefchain/reliefchain.wasm        No Vul1.
+contracts/reliefchain/reliefchain.wasm        No Vul2.
+contracts/rollback/rollback.wasm        No Vul2.
+contracts/rollback/rollback.wasm        No Vul1.
+contracts/squeakr/squeakr.wasm        No Vul1.
+contracts/squeakr/squeakr.wasm        No Vul2.
+contracts/stealram/stealram.wasm        No Vul2.
+contracts/stealram/stealram.wasm        No Vul1.
+contracts/table/table.wasm        No Vul1.
+contracts/stealram/stealram.wasm        No Vul2.
+contracts/task/task.wasm        No Vul2.
+contracts/task/task.wasm        No Vul1.
+contracts/test.da/test.da.wasm        No Vul1.
+contracts/test.da/test.da.wasm        No Vul2.
+contracts/tolls/tolls.wasm        No Vul2.
+contracts/tolls/tolls.wasm        No Vul1.
+contracts/tungsten/tungsten.wasm        No Vul1.
+contracts/tungsten/tungsten.wasm        No Vul2.
+contracts/user/user.wasm        No Vul2.
+contracts/user/user.wasm        No Vul1.
+contracts/wallet/wallet.wasm        No Vul1.
+contracts/wallet/wallet.wasm        No Vul2.
+contracts/watchdoggiee/watchdoggiee.wasm        No Vul2.
+contracts/watchdoggiee/watchdoggiee.wasm        No Vul1.
+contracts/eosbocai2222/eosbocai2222.wasm        No Vul1.
+contracts/eosbocai2222/eosbocai2222.wasm        No Vul2.
+contracts/fallback/fallback.wasm        No Vul1.
+contracts/fallback/fallback.wasm        No Vul2.
+contracts/random/random.wasm        No Vul1.
+contracts/random/random.wasm        No Vul2.
+contracts/helloworld/helloworld.wasm        No Vul1.
+contracts/helloworld/helloworld.wasm        No Vul2.

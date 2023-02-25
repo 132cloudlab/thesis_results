@@ -1,0 +1,950 @@
+[
+    "10 of 90 contracts flagged.",
+    "DetectForgedTranNotification: 6 contracts account for 6.67%",
+    "DetectBlockInfoDependency: 4 contracts account for 4.44%",
+    "DetectFakedEosTransfer: 2 contracts account for 2.22%",
+    {
+        "FakedEosTransfer": [
+            "notified",
+            "tokenlock"
+        ],
+        "ForgedTransferNotification": [
+            "eosbet",
+            "charity",
+            "forged",
+            "lottery1",
+            "tokenlock",
+            "eosbetcasino"
+        ],
+        "BlockInformationDependency": [
+            "coingame",
+            "eosfun",
+            "random",
+            "lottery1"
+        ],
+        "ERROR": [],
+        "TIMEOUT": []
+    },
+    [
+        "autoservice",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.23581290245056152,
+            "decompile_time": 0.6297426223754883,
+            "souffle_time": 0.2524721622467041
+        }
+    ],
+    [
+        "eosbet",
+        [
+            "DetectForgedTranNotification"
+        ],
+        [],
+        {
+            "build_cfg_time": 0.24844002723693848,
+            "decompile_time": 0.909534215927124,
+            "souffle_time": 0.3454587459564209
+        }
+    ],
+    [
+        "basics",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.3432285785675049,
+            "decompile_time": 1.003098964691162,
+            "souffle_time": 0.41089582443237305
+        }
+    ],
+    [
+        "eosbethack",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.3059709072113037,
+            "decompile_time": 0.9772181510925293,
+            "souffle_time": 0.5001277923583984
+        }
+    ],
+    [
+        "coingame",
+        [
+            "DetectBlockInfoDependency"
+        ],
+        [],
+        {
+            "build_cfg_time": 0.2615339756011963,
+            "decompile_time": 1.3733959197998047,
+            "souffle_time": 0.5836400985717773
+        }
+    ],
+    [
+        "ddos",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.37856411933898926,
+            "decompile_time": 1.4218802452087402,
+            "souffle_time": 0.6985704898834229
+        }
+    ],
+    [
+        "customtokens",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.42636775970458984,
+            "decompile_time": 1.4252099990844727,
+            "souffle_time": 0.7398016452789307
+        }
+    ],
+    [
+        "blaster",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.39424681663513184,
+            "decompile_time": 1.3950748443603516,
+            "souffle_time": 0.91341233253479
+        }
+    ],
+    [
+        "eosfun",
+        [
+            "DetectBlockInfoDependency"
+        ],
+        [],
+        {
+            "build_cfg_time": 0.28431129455566406,
+            "decompile_time": 1.061152458190918,
+            "souffle_time": 0.5502917766571045
+        }
+    ],
+    [
+        "dice",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.4364786148071289,
+            "decompile_time": 1.722473382949829,
+            "souffle_time": 0.8840591907501221
+        }
+    ],
+    [
+        "blog",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.5742781162261963,
+            "decompile_time": 1.8400475978851318,
+            "souffle_time": 0.7963614463806152
+        }
+    ],
+    [
+        "appdemo",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.5731737613677979,
+            "decompile_time": 1.8270444869995117,
+            "souffle_time": 0.8771514892578125
+        }
+    ],
+    [
+        "cms",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.5189299583435059,
+            "decompile_time": 1.946321725845337,
+            "souffle_time": 0.9138665199279785
+        }
+    ],
+    [
+        "charity",
+        [
+            "DetectForgedTranNotification"
+        ],
+        [],
+        {
+            "build_cfg_time": 0.5763671398162842,
+            "decompile_time": 1.9719769954681396,
+            "souffle_time": 1.3560171127319336
+        }
+    ],
+    [
+        "eosproof",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.3585937023162842,
+            "decompile_time": 1.4055047035217285,
+            "souffle_time": 0.5216140747070312
+        }
+    ],
+    [
+        "freestorage",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.17737603187561035,
+            "decompile_time": 0.6554107666015625,
+            "souffle_time": 0.30073070526123047
+        }
+    ],
+    [
+        "eoscomm",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.8584909439086914,
+            "decompile_time": 2.441775321960449,
+            "souffle_time": 1.2245941162109375
+        }
+    ],
+    [
+        "eosmsg",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.516582727432251,
+            "decompile_time": 1.6375370025634766,
+            "souffle_time": 0.7829017639160156
+        }
+    ],
+    [
+        "forged",
+        [
+            "DetectForgedTranNotification"
+        ],
+        [],
+        {
+            "build_cfg_time": 0.22434186935424805,
+            "decompile_time": 0.9260857105255127,
+            "souffle_time": 0.3690023422241211
+        }
+    ],
+    [
+        "goodforg",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.21578001976013184,
+            "decompile_time": 0.7195866107940674,
+            "souffle_time": 0.344818115234375
+        }
+    ],
+    [
+        "helloworld",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.0893411636352539,
+            "decompile_time": 0.3026273250579834,
+            "souffle_time": 0.15553951263427734
+        }
+    ],
+    [
+        "goodnoti",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.24156904220581055,
+            "decompile_time": 0.7013909816741943,
+            "souffle_time": 0.34050536155700684
+        }
+    ],
+    [
+        "hello.target",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.10755610466003418,
+            "decompile_time": 0.4207644462585449,
+            "souffle_time": 0.22411537170410156
+        }
+    ],
+    [
+        "hello",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.1923234462738037,
+            "decompile_time": 0.7854299545288086,
+            "souffle_time": 0.38730287551879883
+        }
+    ],
+    [
+        "eosyield",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.585299015045166,
+            "decompile_time": 1.8519635200500488,
+            "souffle_time": 1.8108923435211182
+        }
+    ],
+    [
+        "ethplay",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.7123212814331055,
+            "decompile_time": 2.7700297832489014,
+            "souffle_time": 1.1708719730377197
+        }
+    ],
+    [
+        "gravatarcafe",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.4467916488647461,
+            "decompile_time": 1.5815176963806152,
+            "souffle_time": 0.7406535148620605
+        }
+    ],
+    [
+        "lover",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.3031582832336426,
+            "decompile_time": 1.0600926876068115,
+            "souffle_time": 0.40177416801452637
+        }
+    ],
+    [
+        "ballot",
+        [],
+        [],
+        {
+            "build_cfg_time": 1.4970037937164307,
+            "decompile_time": 4.212230920791626,
+            "souffle_time": 2.836473226547241
+        }
+    ],
+    [
+        "keepscore",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.6271402835845947,
+            "decompile_time": 2.24552059173584,
+            "souffle_time": 1.2325654029846191
+        }
+    ],
+    [
+        "eosbutton",
+        [],
+        [],
+        {
+            "build_cfg_time": 1.114400863647461,
+            "decompile_time": 4.262138843536377,
+            "souffle_time": 4.481688737869263
+        }
+    ],
+    [
+        "merkle",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.406477689743042,
+            "decompile_time": 1.8080825805664062,
+            "souffle_time": 0.9177260398864746
+        }
+    ],
+    [
+        "more.moment",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.27454137802124023,
+            "decompile_time": 1.162505865097046,
+            "souffle_time": 0.50677490234375
+        }
+    ],
+    [
+        "members",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.566368579864502,
+            "decompile_time": 1.7774875164031982,
+            "souffle_time": 0.8911473751068115
+        }
+    ],
+    [
+        "forum",
+        [],
+        [],
+        {
+            "build_cfg_time": 1.2852883338928223,
+            "decompile_time": 4.190399885177612,
+            "souffle_time": 2.102030038833618
+        }
+    ],
+    [
+        "eosbocai2222",
+        [],
+        [],
+        {
+            "build_cfg_time": 1.7980644702911377,
+            "decompile_time": 5.823380708694458,
+            "souffle_time": 3.6621532440185547
+        }
+    ],
+    [
+        "eosio.nft",
+        [],
+        [],
+        {
+            "build_cfg_time": 1.511005163192749,
+            "decompile_time": 5.4175872802734375,
+            "souffle_time": 3.473729133605957
+        }
+    ],
+    [
+        "notified",
+        [
+            "DetectFakedEosTransfer"
+        ],
+        [],
+        {
+            "build_cfg_time": 0.19179916381835938,
+            "decompile_time": 0.6938574314117432,
+            "souffle_time": 0.3116724491119385
+        }
+    ],
+    [
+        "kingofeos",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.8186008930206299,
+            "decompile_time": 3.30519962310791,
+            "souffle_time": 2.737619638442993
+        }
+    ],
+    [
+        "myprofile",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.3390963077545166,
+            "decompile_time": 1.202904462814331,
+            "souffle_time": 0.43346405029296875
+        }
+    ],
+    [
+        "eosuber",
+        [],
+        [],
+        {
+            "build_cfg_time": 1.3406519889831543,
+            "decompile_time": 4.779356956481934,
+            "souffle_time": 4.258895397186279
+        }
+    ],
+    [
+        "masteroracle",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.9714000225067139,
+            "decompile_time": 3.235227108001709,
+            "souffle_time": 1.714507818222046
+        }
+    ],
+    [
+        "mutualcredit",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.49917030334472656,
+            "decompile_time": 2.036353826522827,
+            "souffle_time": 1.0934317111968994
+        }
+    ],
+    [
+        "newapp1",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.557274580001831,
+            "decompile_time": 1.7735908031463623,
+            "souffle_time": 0.8424649238586426
+        }
+    ],
+    [
+        "fallback",
+        [],
+        [],
+        {
+            "build_cfg_time": 1.8197603225708008,
+            "decompile_time": 5.7474236488342285,
+            "souffle_time": 3.610280990600586
+        }
+    ],
+    [
+        "ramconsumer",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.21470236778259277,
+            "decompile_time": 0.8123033046722412,
+            "souffle_time": 0.37755513191223145
+        }
+    ],
+    [
+        "reader",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.19988465309143066,
+            "decompile_time": 0.6863453388214111,
+            "souffle_time": 0.333604097366333
+        }
+    ],
+    [
+        "random",
+        [
+            "DetectBlockInfoDependency"
+        ],
+        [],
+        {
+            "build_cfg_time": 0.2621028423309326,
+            "decompile_time": 1.1407504081726074,
+            "souffle_time": 0.5212652683258057
+        }
+    ],
+    [
+        "priceoracliz",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.5558490753173828,
+            "decompile_time": 1.8795232772827148,
+            "souffle_time": 0.8015069961547852
+        }
+    ],
+    [
+        "pet",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.7424259185791016,
+            "decompile_time": 2.5326292514801025,
+            "souffle_time": 1.523754596710205
+        }
+    ],
+    [
+        "pradata",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.6913013458251953,
+            "decompile_time": 3.110229730606079,
+            "souffle_time": 2.274641752243042
+        }
+    ],
+    [
+        "rollback",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.39021825790405273,
+            "decompile_time": 1.7597007751464844,
+            "souffle_time": 1.3145153522491455
+        }
+    ],
+    [
+        "recruit",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.664905309677124,
+            "decompile_time": 2.6700148582458496,
+            "souffle_time": 1.4407455921173096
+        }
+    ],
+    [
+        "reliefchain",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.8121170997619629,
+            "decompile_time": 3.0481152534484863,
+            "souffle_time": 1.6447744369506836
+        }
+    ],
+    [
+        "more.voting",
+        [],
+        [],
+        {
+            "build_cfg_time": 1.6301641464233398,
+            "decompile_time": 5.445030212402344,
+            "souffle_time": 5.028282165527344
+        }
+    ],
+    [
+        "stealram",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.3114199638366699,
+            "decompile_time": 1.0295424461364746,
+            "souffle_time": 0.48221826553344727
+        }
+    ],
+    [
+        "mydao",
+        [],
+        [],
+        {
+            "build_cfg_time": 1.4326884746551514,
+            "decompile_time": 7.6974029541015625,
+            "souffle_time": 3.5943422317504883
+        }
+    ],
+    [
+        "exchange",
+        [],
+        [],
+        {
+            "build_cfg_time": 1.9375920295715332,
+            "decompile_time": 7.231464862823486,
+            "souffle_time": 12.166656732559204
+        }
+    ],
+    [
+        "table",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.4327869415283203,
+            "decompile_time": 1.5084822177886963,
+            "souffle_time": 0.5528347492218018
+        }
+    ],
+    [
+        "salescon",
+        [],
+        [],
+        {
+            "build_cfg_time": 1.7721009254455566,
+            "decompile_time": 4.742583274841309,
+            "souffle_time": 2.8782958984375
+        }
+    ],
+    [
+        "squeakr",
+        [],
+        [],
+        {
+            "build_cfg_time": 1.254929542541504,
+            "decompile_time": 3.488253355026245,
+            "souffle_time": 2.2490899562835693
+        }
+    ],
+    [
+        "timelock",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.3798654079437256,
+            "decompile_time": 1.3579401969909668,
+            "souffle_time": 0.6539933681488037
+        }
+    ],
+    [
+        "test.da",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.6058838367462158,
+            "decompile_time": 1.9119980335235596,
+            "souffle_time": 0.8022029399871826
+        }
+    ],
+    [
+        "timeos",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.40592145919799805,
+            "decompile_time": 1.2877874374389648,
+            "souffle_time": 0.5954601764678955
+        }
+    ],
+    [
+        "stablecoooin",
+        [],
+        [],
+        {
+            "build_cfg_time": 1.5309972763061523,
+            "decompile_time": 4.25887393951416,
+            "souffle_time": 2.8718667030334473
+        }
+    ],
+    [
+        "test.token",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.6377017498016357,
+            "decompile_time": 2.6574010848999023,
+            "souffle_time": 1.7676537036895752
+        }
+    ],
+    [
+        "shine",
+        [],
+        [],
+        {
+            "build_cfg_time": 1.6492011547088623,
+            "decompile_time": 5.928053617477417,
+            "souffle_time": 4.823473930358887
+        }
+    ],
+    [
+        "tokentime",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.8734292984008789,
+            "decompile_time": 3.274019479751587,
+            "souffle_time": 2.381436347961426
+        }
+    ],
+    [
+        "tolls",
+        [],
+        [],
+        {
+            "build_cfg_time": 1.085108995437622,
+            "decompile_time": 3.315751791000366,
+            "souffle_time": 2.158388376235962
+        }
+    ],
+    [
+        "user",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.7077522277832031,
+            "decompile_time": 2.861083745956421,
+            "souffle_time": 1.385396957397461
+        }
+    ],
+    [
+        "pex",
+        [],
+        [],
+        {
+            "build_cfg_time": 1.6583797931671143,
+            "decompile_time": 9.40558648109436,
+            "souffle_time": 12.26295518875122
+        }
+    ],
+    [
+        "owdinnetwork",
+        [],
+        [],
+        {
+            "build_cfg_time": 4.169511795043945,
+            "decompile_time": 11.337058305740356,
+            "souffle_time": 9.20767092704773
+        }
+    ],
+    [
+        "watchdoggiee",
+        [],
+        [],
+        {
+            "build_cfg_time": 0.5644171237945557,
+            "decompile_time": 2.1069841384887695,
+            "souffle_time": 0.6818554401397705
+        }
+    ],
+    [
+        "tungsten",
+        [],
+        [],
+        {
+            "build_cfg_time": 1.7652180194854736,
+            "decompile_time": 5.502225875854492,
+            "souffle_time": 6.527897834777832
+        }
+    ],
+    [
+        "dgoods",
+        [],
+        [],
+        {
+            "build_cfg_time": 6.216922998428345,
+            "decompile_time": 17.795610189437866,
+            "souffle_time": 18.54927086830139
+        }
+    ],
+    [
+        "infiniverse",
+        [],
+        [],
+        {
+            "build_cfg_time": 4.2322611808776855,
+            "decompile_time": 15.27894115447998,
+            "souffle_time": 18.862110137939453
+        }
+    ],
+    [
+        "oracle.new",
+        [],
+        [],
+        {
+            "build_cfg_time": 4.327226877212524,
+            "decompile_time": 13.922365188598633,
+            "souffle_time": 14.18557095527649
+        }
+    ],
+    [
+        "monstereosio",
+        [],
+        [],
+        {
+            "build_cfg_time": 6.005081653594971,
+            "decompile_time": 15.045820951461792,
+            "souffle_time": 15.056389808654785
+        }
+    ],
+    [
+        "wallet",
+        [],
+        [],
+        {
+            "build_cfg_time": 2.045008897781372,
+            "decompile_time": 4.275662899017334,
+            "souffle_time": 4.0074427127838135
+        }
+    ],
+    [
+        "unionramgame",
+        [],
+        [],
+        {
+            "build_cfg_time": 1.7149240970611572,
+            "decompile_time": 9.564918279647827,
+            "souffle_time": 10.812098503112793
+        }
+    ],
+    [
+        "tokendapppub",
+        [],
+        [],
+        {
+            "build_cfg_time": 6.058534860610962,
+            "decompile_time": 14.544247150421143,
+            "souffle_time": 19.519155979156494
+        }
+    ],
+    [
+        "delaytrans",
+        [],
+        [],
+        {
+            "build_cfg_time": 2.0681753158569336,
+            "decompile_time": 20.414750814437866,
+            "souffle_time": 47.62976622581482
+        }
+    ],
+    [
+        "lottery1",
+        [
+            "DetectForgedTranNotification",
+            "DetectBlockInfoDependency"
+        ],
+        [],
+        {
+            "build_cfg_time": 2.392732620239258,
+            "decompile_time": 20.688333749771118,
+            "souffle_time": 48.49282169342041
+        }
+    ],
+    [
+        "tokenlock",
+        [
+            "DetectForgedTranNotification",
+            "DetectFakedEosTransfer"
+        ],
+        [],
+        {
+            "build_cfg_time": 2.25191068649292,
+            "decompile_time": 18.081480979919434,
+            "souffle_time": 42.858458280563354
+        }
+    ],
+    [
+        "fairdicegame",
+        [],
+        [],
+        {
+            "build_cfg_time": 5.259589433670044,
+            "decompile_time": 35.59823536872864,
+            "souffle_time": 50.04758405685425
+        }
+    ],
+    [
+        "signupeoseos",
+        [],
+        [],
+        {
+            "build_cfg_time": 2.4727983474731445,
+            "decompile_time": 27.745516061782837,
+            "souffle_time": 46.701533794403076
+        }
+    ],
+    [
+        "eosbetcasino",
+        [
+            "DetectForgedTranNotification"
+        ],
+        [],
+        {
+            "build_cfg_time": 5.565066814422607,
+            "decompile_time": 37.66834783554077,
+            "souffle_time": 56.82660627365112
+        }
+    ],
+    [
+        "pandafun",
+        [],
+        [],
+        {
+            "build_cfg_time": 9.821843147277832,
+            "decompile_time": 29.68534255027771,
+            "souffle_time": 81.606929063797
+        }
+    ],
+    [
+        "task",
+        [],
+        [],
+        {
+            "build_cfg_time": 2.715221643447876,
+            "decompile_time": 95.6321337223053,
+            "souffle_time": 28.854588985443115
+        }
+    ],
+    [
+        "vigor",
+        [],
+        [],
+        {
+            "build_cfg_time": 9.604706525802612,
+            "decompile_time": 160.52612900733948,
+            "souffle_time": 30.17019534111023
+        }
+    ]
+]
