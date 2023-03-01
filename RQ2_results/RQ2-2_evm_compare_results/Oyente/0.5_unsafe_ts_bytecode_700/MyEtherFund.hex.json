@@ -7,5 +7,5 @@
   "integer_underflow": [], 
   "money_concurrency": false
  }, 
- "evm_code_coverage": "6.0"
+ "evm_code_coverage": "4.8"
 }
